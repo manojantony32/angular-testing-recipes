@@ -3,7 +3,7 @@
 import { TestBed, inject } from '@angular/core/testing';
 import { GreetingService } from './greeting.service';
 
-//Test Suite
+// Test Suite
 // The describe(string, function) function defines what we call a Test Suite, a collection of individual Test Specs.
 fdescribe('GreetingService', () => {
   fdescribe('Manually instantiating service', () => {
